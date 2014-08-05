@@ -1,4 +1,6 @@
 google-homepage
 ===============
 
-HTML / CSS 101 - Replicating Google Homepage Project 
+HTML / CSS 101 - Replicating Google Homepage (The Odin Project)
+
+
